@@ -1,0 +1,79 @@
+
+body{
+    background-color: black;
+}
+.caja{
+    height: 570px;
+	width: 400px;
+	margin: auto;
+    background-color: white;
+}
+div{
+    color: black
+}
+.top-of-the-post{
+    height: 25px;
+	width: 395px;
+}
+.caja1{
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 3px;
+}
+.caja2 {
+    float: left;
+    margin: -5px;
+    margin-left:1px ;
+    padding-bottom: px;
+    border-width: 0px;
+    font-size: small;
+    height: 50px;
+	width: 100px;
+}
+.caja3{
+float: right;
+padding: 8px;
+height: 25px;
+width: 5px;
+padding-top: 15px;
+}
+.midle-of-the-post{
+    height: 330px;
+	width: 400px;
+}
+img{
+    height: 310px;
+	width: 400px;
+}
+.simbolos{
+    height: 25px;
+	width: 400px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.simbolo1{
+float: left;
+padding: 3px;
+}
+.simbolo2{
+    float: left;
+    padding: 3px;
+}
+.simbolo3{
+    float: left;
+    padding: 3px;
+}
+.simbolo4{
+    float: right;
+    padding-right: 15px;
+}
+.parrafo{
+    padding: 6px;
+    padding-top: 0px;
+}
+p{
+    padding: 0px;
+    margin: 10px;
+}
